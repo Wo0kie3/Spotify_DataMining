@@ -1,2 +1,2 @@
 # Spotify Genres - Analysis
-## Data Mining projectgi
+## Data Mining project
