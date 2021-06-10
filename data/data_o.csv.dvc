@@ -1,0 +1,5 @@
+outs:
+- md5: cfd08a1c74349a35954f04423cefadba
+  size: 29825241
+  path: data_o.csv
+  isexec: true

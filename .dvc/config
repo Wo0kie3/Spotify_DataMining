@@ -1,0 +1,4 @@
+[core]
+    remote = spotify_data
+['remote "spotify_data"']
+    url = gdrive://1QacEYF0valjfI5bPo0ZxQ0XIzZfr5VsR
